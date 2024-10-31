@@ -1,7 +1,14 @@
 # 👋 Hello, I'm Alireza Jahani
 
 <div align="center">
-  <img src="https://github.com/AlirezaJahaniBiglar.png" alt="Profile Image" style="border-radius: 50%; width: 200px; height: 200px;" />
+  <svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+      <clipPath id="circle-clip">
+        <circle cx="100" cy="100" r="100" />
+      </clipPath>
+    </defs>
+    <image width="200" height="200" clip-path="url(#circle-clip)" href="https://github.com/AlirezaJahaniBiglar.png" />
+  </svg>
 </div>
 
 ## 🚀 Senior Full-Stack Developer | Web Wizard | Bot Enthusiast
