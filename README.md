@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Alireza Jahani
 
 <div align="center">
-  <img src="/placeholder.svg?height=200&width=200" alt="Profile Image" style="border-radius: 50%;" />
+  <img src="https://github.com/AlirezaJahaniBiglar.png" alt="Profile Image" style="border-radius: 50%; width: 200px; height: 200px;" />
 </div>
 
 ## 🚀 Senior Full-Stack Developer | Web Wizard | Bot Enthusiast
