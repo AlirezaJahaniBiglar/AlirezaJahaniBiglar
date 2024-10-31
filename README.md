@@ -1,9 +1,4 @@
 # 👋 Hello, I'm Alireza Jahani
-
-<div align="center">
-  <img src="https://github.com/AlirezaJahaniBiglar.png" width="200" height="200" style="border-radius: 50%;" alt="Profile Image">
-</div>
-
 ## 🚀 Senior Full-Stack Developer | Web Wizard | Bot Enthusiast
 
 With years of experience under my belt, I specialize in crafting robust and scalable web applications from the ground up. My expertise spans both frontend and backend technologies, allowing me to deliver complete, end-to-end solutions.
